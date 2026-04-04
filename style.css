@@ -231,8 +231,8 @@ html {
 
 
 .image{
-    height: 475px;
-    width: 340px;
+    height: 470px;
+    width: 380px;
     border-radius: 50%;
     margin: 10px;
     border: 5px solid #3498db;
@@ -345,9 +345,9 @@ html {
 }
 
 .about-menu img {
-  height: 350px;
-  width: 350px;
-  border-radius: 20px;
+  height: 450px;
+  width: 450px;
+  border-radius: 40%;
   object-fit: cover;
   box-shadow: 0 20px 60px rgba(0,0,0,0.3);
   transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
