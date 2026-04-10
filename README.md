@@ -49,16 +49,4 @@ portfolio-js/
 * 📧 Email: [sabihabegum78695@gmail.com.com]
 * 💼 GitHub: https://github.com/Sabihabm
 
----
 
-## ⭐ Support
-
-If you like this project, please ⭐ the repo!
-
----
-
-## 🚀 Future Improvements
-
-* Add animations
-* Add React version
-* Improve UI/UX design
