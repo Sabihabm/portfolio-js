@@ -657,12 +657,13 @@ html {
 }
 
 .projects img{
-    height: 180px;
-    width: 100%;
+    height: 250px;
+    width: 90%;
     object-fit: cover;
     transition: transform 0.4s ease;
     position: relative;
     z-index: 1;
+    overflow: hidden;
 }
 
 .projects > div:hover img {
