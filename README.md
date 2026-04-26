@@ -39,7 +39,7 @@ I am currently focused on building real-world projects and improving my problem-
 portfolio-js/
 │── index.html
 │── style.css
-│── script.js
+│── index.js
 ```
 
 ---
