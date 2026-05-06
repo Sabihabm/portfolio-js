@@ -653,14 +653,14 @@ html {
 }
 
 .projects > div:hover {
-  transform: translateY(-20px) scale(1.05);
+  transform: translateY(-20px) scale(1.01);
   box-shadow: 0 20px 60px rgba(0, 212, 255, 0.4);
   border-color: rgba(0, 212, 255, 0.8);
 }
 
 .projects img {
   height: 250px;
-  width: 100%;
+  width: 90%;
   object-fit: cover;
   transition: transform 0.4s ease;
   position: relative;
@@ -688,7 +688,7 @@ html {
 .discription {
   font-size: 0.9rem;
   color: #555;
-  padding: 10px 20px;
+  padding: 10px 10px;
   margin: 0;
   line-height: 1.6;
   font-weight: 500;
@@ -842,7 +842,7 @@ html {
 }
 
 .contact p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: #ffffff;
   margin: 25px 0;
   line-height: 2;
@@ -852,6 +852,7 @@ html {
   align-items: center;
   gap: 15px;
   animation: slideInRight 0.8s ease-out;
+  overflow: hidden;
 }
 
 .contact p::before {
@@ -1203,7 +1204,7 @@ html {
   }
 
   .projects {
-    gap: 15px;
+    gap: 25px;
     padding: 0 5px;
     grid-template-columns: repeat(1, 1fr);
   }
@@ -1327,6 +1328,7 @@ html {
 
   .projects img {
     height: 100px;
+    width: 70%;
   }
 
   .project-name {
